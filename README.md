@@ -1,2 +1,2 @@
 # SalaodeBeleza
-primary repository
+first repository
