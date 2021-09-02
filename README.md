@@ -1,2 +1,0 @@
-# SalaodeBeleza
-first repository
